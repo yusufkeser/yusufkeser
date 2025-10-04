@@ -53,8 +53,8 @@ Currently, I’m focusing on **Python**, **C**, **C++**, **C#**, **Arduino**, an
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/username)  
-- 📧 **yusufkeser@example.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-keser-265939360/)  
+- 📧 **yuser.4516@gmail.com**  
 - 🧠 Check out my GitHub projects for more!
 
 ---
